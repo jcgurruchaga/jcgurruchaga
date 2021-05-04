@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jcgurruchaga
+- 👀 I’m interested in project management, product management, agile developments
+- 🌱 I’m currently learning SAFe, Scrum
+- 📫 How to reach me: www.linkedin.com/juancruzgurruchaga
